@@ -1,3 +1,19 @@
+# Youtube Clone
+
+This is just a clone built as in a hobby, NO COMMERCIAL USE INTENDED.
+All Rights Are Not Reserved! Its just a demo
+
+## Live demo
+
+### <a href="https://clone-59c23.web.app/">Live Demo</a>
+
+## Table of Contents
+
+- [React]
+- [Material Ui Icons]
+- [Firebase]
+- [React Router]
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
